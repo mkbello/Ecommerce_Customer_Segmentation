@@ -76,8 +76,15 @@ A small segment of high-value customers contributes a significant portion of tot
 The interactive **Power BI dashboard** visualizes sales performance, customer segments, product demand, and regional contributions, enabling **data-driven decisions**, targeted marketing, improved customer engagement, and overall business growth.
 
 ---
+## Key Findings
+- A small portion of high-value customers (Champions) contributes a **significant share of total revenue**.  
+- Certain countries drive the majority of sales, highlighting **geographic opportunities**.  
+- Top products generate the highest revenue, suggesting **priority items for marketing campaigns**.  
+- At Risk customers represent an opportunity for **targeted retention campaigns**.
 
-## Key Insights & Recommendations
+---
+
+## Recommendations
 - **Reward Champions:** Implement VIP programs and exclusive discounts  
 - **Re-engage At Risk Customers:** Personalized promotions to reduce churn  
 - **Promote Top Products:** Focus marketing campaigns on high-revenue products in top-performing countries  
@@ -118,8 +125,8 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ---
 
 ## Author
-**Muktar Bello** 
-**Date:** 2026-02-18  
+*Muktar Bello*  
+*Date: 2026-02-18*
 
 ## License
 MIT License
