@@ -21,18 +21,17 @@ An interactive **Power BI dashboard** was created to visualize sales performance
 ## Project Structure
 Ecommerce_Customer_Segmentation/
 │
-├── Data/ # Raw and cleaned datasets
-│ ├── raw/ # Original dataset
-│ ├── cleaned/ # Cleaned dataset
-│ └── customer_segments.csv # RFM segmentation results
-├── Notebooks/ # Python notebooks
-│ ├── Data_Cleaning.ipynb
-│ └── RFM_Segmentation.ipynb
-├── PowerBI/ # Power BI dashboard file (.pbix)
-├── Reports/ # Executive_Summary.md
-├── Assets/ # Images/screenshots
-└── README.md # Project overview
-
+├── Data/                  # Raw and cleaned datasets
+│   ├── raw/                   # Original dataset
+│   ├── cleaned/               # Cleaned dataset
+│   └── customer_segments.csv  # RFM segmentation results
+├── Notebooks/              # Python notebooks
+│   ├── Data_Cleaning.ipynb
+│   └── RFM_Segmentation.ipynb
+├── PowerBI/                # Power BI dashboard file (.pbix)
+├── Reports/                # Executive_Summary.md
+├── Assets/                 # Images/screenshots
+└── README.md                  # Project overview
 
 ---
 
@@ -99,7 +98,7 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ![Segment Revenue Contribution](Assets/images/segment_revenue_bar.jpeg)
 
 ### Page 4 – Product Insights
-![Top Products](Assets/images/top_products.png)
+![Top Products](Assets/images/top_products.jpeg)
 ![Product Quantity Trend](Assets/images/product_quantity_trend.jpeg)
 
 ### Page 5 – Geographic Analysis
