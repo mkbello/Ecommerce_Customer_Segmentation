@@ -19,6 +19,7 @@ An interactive **Power BI dashboard** was created to visualize sales performance
 ---
 
 ## Project Structure
+```
 Ecommerce_Customer_Segmentation/
 │
 ├── Data/ # Raw and cleaned datasets
@@ -32,7 +33,7 @@ Ecommerce_Customer_Segmentation/
 ├── Reports/ # Executive_Summary.md
 ├── Assets/ # Images/screenshots
 └── README.md # Project overview
-
+```
 
 ---
 
@@ -90,7 +91,7 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ![KPI Cards](Assets/images/kpi_cards.jpeg)
 ![Revenue Trend Over Time](Assets/images/revenue_trend.jpeg)
 ![Total Orders vs Total Customers Trend](Assets/images/total_order_vs_total_customers_trend.jpeg)
-![Average Order Value Trend](Assets/images/Average_Order_trend.jpeg)
+![Average Order Value Trend](Assets/images/average_Order_trend.jpeg)
 
 ### Page 2 – Sales Insights
 ![Monthly Revenue Trend](Assets/images/monthly_revenue.jpeg)
