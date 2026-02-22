@@ -59,12 +59,12 @@ Ecommerce_Customer_Segmentation/
 ---
 
 ## Power BI Dashboard Pages
-- **Page 1: Executive Summary** – Key metrics and high-level business overview  
-- **Page 2: Sales Performance** – KPIs, revenue trends, and top countries  
-- **Page 3: Customer Segmentation** – RFM-based customer groups and revenue contribution  
+- **Page 1: Executive Overview** – Key metrics and high-level business overview  
+- **Page 2: Sales Insights** – Revenue trends, and top countries  
+- **Page 3: Customer Insights (RFM)** – RFM-based customer groups and revenue contribution  
 - **Page 4: Product Insights** – Top products and sales trends  
-- **Page 5: Geographic Analysis** – Revenue and customer distribution by country  
-- **Page 6: Insights & Recommendations** – Actionable strategies for business growth  
+- **Page 5: Geographic Insights** – Revenue and customer distribution by country  
+- **Page 6: Key Insights & Recommendations** – Actionable strategies for business growth  
 
 ---
 
@@ -77,7 +77,7 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 
 ---
 
-## Key Insights & Recommendations
+## Recommendations
 - **Reward Champions:** Implement VIP programs and exclusive discounts  
 - **Re-engage At Risk Customers:** Personalized promotions to reduce churn  
 - **Promote Top Products:** Focus marketing campaigns on high-revenue products in top-performing countries  
@@ -86,27 +86,31 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ---
 
 ## Power BI Screenshots
-### Page 1 – Executive Summary
-![Executive Summary](Assets/images/executive_summary.jpeg)
-
-### Page 2 – Sales Performance
+### Page 1 – Executive Overview
 ![KPI Cards](Assets/images/kpi_cards.jpeg)
-![Monthly Revenue Trend](Assets/images/monthly_revenue.jpeg)
-![Top Countries by Revenue](Assets/images/top_countries.jpeg)
+![Revenue Trend Over Time](Assets/images/revenue_trend.jpeg)
+![Total Orders vs Total Customers Trend](Assets/images/total_order_vs_total_customers_trend.jpeg)
+![Average Order Value Trend](Assets/images/Average_Order_trend.jpeg)
 
-### Page 3 – Customer Segmentation
-![Customer Segments](Assets/images/customer_segments_pie.jpeg)
-![Segment Revenue Contribution](Assets/images/segment_revenue_bar.jpeg)
+### Page 2 – Sales Insights
+![Monthly Revenue Trend](Assets/images/monthly_revenue.jpeg)
+![Top Countries by Revenue](Assets/images/top_countries_by_revenue.jpeg)
+
+### Page 3 – Customer Insights (RFM)
+![Customer Segments](Assets/images/customer_segments.jpeg)
+![Segment Revenue Contribution](Assets/images/segment_revenue.jpeg)
+![Top 10 Customer](Assets/images/top_10_customers.jpeg)
 
 ### Page 4 – Product Insights
 ![Top Products](Assets/images/top_products.png)
 ![Product Quantity Trend](Assets/images/product_quantity_trend.jpeg)
 
-### Page 5 – Geographic Analysis
+### Page 5 – Geographic Insights
 ![Revenue by Country](Assets/images/geography_map.jpeg)
+![Country Revenue & Customers](Assets/images/country_revenue_&_customers.jpeg)
 
-### Page 6 – Insights & Recommendations
-![Recommendations](Assets/images/recommendations.jpeg)
+### Page 6 – Key Insights & Recommendations
+![Key Insights & Recommendations](Assets/images/insights_&_recommendations.jpeg)
 
 ---
 

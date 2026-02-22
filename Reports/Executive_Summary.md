@@ -61,12 +61,12 @@ The goal of this project is to provide actionable insights through an interactiv
 ---
 
 ## Dashboard Highlights
-- **Page 1:** Executive Summary – Key metrics and high-level business overview 
-- **Page 2:** Sales Performance – KPIs, revenue trends, and top countries 
-- **Page 3:** Customer Segmentation – RFM segments, top customers, and revenue by segment  
+- **Page 1:** Executive Overview – Key metrics and high-level business overview 
+- **Page 2:** Sales Insights – Revenue trends, and top countries 
+- **Page 3:** Customer Insights (RFM) – RFM segments, top customers, and revenue by segment  
 - **Page 4:** Product Insights – Top products and quantity sold trends  
-- **Page 5:** Geographic Analysis – Revenue and customer distribution by country  
-- **Page 6:** Insights & Recommendations – Actionable strategies based on data
+- **Page 5:** Geographic Insights – Revenue and customer distribution by country  
+- **Page 6:** Key Insights & Recommendations – Actionable strategies based on data
 
 ---
 
