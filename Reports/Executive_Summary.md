@@ -13,7 +13,7 @@ The goal of this project is to provide actionable insights through an interactiv
 - **Countries:** 37  
 - **Date Range:** 2010-12-01 – 2011-12-09 
 - **Total Revenue:** [Currency]8,911,407.90
-
+- **Source:** Online Retail Dataset  
 ---
 
 ## Methodology
