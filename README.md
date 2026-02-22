@@ -123,8 +123,8 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ---
 
 ## Author
-**Muktar Bello** 
-**Date:** 2026-02-18  
+*Muktar Bello*  
+*22 February 2026*
 
 ## License
 MIT License
