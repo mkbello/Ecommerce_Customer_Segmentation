@@ -91,7 +91,7 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ![KPI Cards](Assets/images/kpi_cards.jpeg)
 ![Revenue Trend Over Time](Assets/images/revenue_trend.jpeg)
 ![Total Orders vs Total Customers Trend](Assets/images/total_order_vs_total_customers_trend.jpeg)
-![Average Order Value Trend](Assets/images/average_Order_trend.jpeg)
+![Average Order Value Trend](Assets/images/average_order_trend.jpeg)
 
 ### Page 2 – Sales Insights
 ![Monthly Revenue Trend](Assets/images/monthly_revenue.jpeg)
@@ -103,7 +103,7 @@ The interactive **Power BI dashboard** visualizes sales performance, customer se
 ![Top 10 Customer](Assets/images/top_10_customers.jpeg)
 
 ### Page 4 – Product Insights
-![Top Products](Assets/images/top_products.png)
+![Top Products](Assets/images/top_products.jpeg)
 ![Product Quantity Trend](Assets/images/product_quantity_trend.jpeg)
 
 ### Page 5 – Geographic Insights
