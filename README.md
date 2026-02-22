@@ -19,6 +19,7 @@ An interactive **Power BI dashboard** was created to visualize sales performance
 ---
 
 ## Project Structure
+```
 Ecommerce_Customer_Segmentation/
 │
 ├── Data/ # Raw and cleaned datasets
@@ -32,7 +33,7 @@ Ecommerce_Customer_Segmentation/
 ├── Reports/ # Executive_Summary.md
 ├── Assets/ # Images/screenshots
 └── README.md # Project overview
-
+```
 
 ---
 
