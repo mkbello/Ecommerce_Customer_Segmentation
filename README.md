@@ -72,7 +72,7 @@ Ecommerce_Customer_Segmentation/
 ## Executive Summary
 This project analyzes transactional data to identify key revenue drivers and understand customer purchasing behavior. Using Python for data cleaning and RFM segmentation, customers were classified into strategic groups: **Champions, Loyal Customers, Frequent Buyers, and At Risk customers**.  
 
-A small segment of high-value customers contributes a significant portion of total revenue, emphasizing the importance of **retention and loyalty strategies**. Revenue trends show clear temporal patterns, and product-level insights highlight top-performing items generating the highest sales volume and revenue.  
+A small segment of high-value customers contributes a disproportionately large share of total revenue, highlighting the critical importance of customer retention and loyalty strategies. Revenue trends reveal clear temporal patterns, suggesting seasonal or cyclical purchasing behavior. Product-level analysis identifies top-performing items generating the highest sales volume and revenue. The analysis further reveals that 33.03% of customers are at risk of churn, emphasizing the need for targeted retention initiatives to protect future revenue.
 
 The interactive **Power BI dashboard** visualizes sales performance, customer segments, product demand, and regional contributions, enabling **data-driven decisions**, targeted marketing, improved customer engagement, and overall business growth.
 
