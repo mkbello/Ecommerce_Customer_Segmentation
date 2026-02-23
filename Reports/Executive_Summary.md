@@ -46,9 +46,9 @@ The goal of this project is to provide actionable insights through an interactiv
 
 ## Key Findings
 - A small portion of high-value customers (Champions) contributes a **significant share of total revenue**.  
-- Certain countries drive the majority of sales, highlighting **geographic opportunities**.  
-- Top products generate the highest revenue, suggesting **priority items for marketing campaigns**.  
-- At Risk customers represent an opportunity for **targeted retention campaigns**.
+- Certain countries (United Kindom, Netherland) drive the majority of sales, highlighting **geographic opportunities**.  
+- Top products (Paper craft, Regency cakestand 3 tier etc) generate the highest revenue, suggesting **priority items for marketing campaigns**.  
+- At Risk customers (33.03%) represent an opportunity for **targeted retention campaigns**.
 
 ---
 
